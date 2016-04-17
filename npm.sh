@@ -11,6 +11,7 @@ npm i -g bower
 npm i -g express
 npm i -g yo
 npm i -g typescript
+npm i -g jade
 
 # Babel es2015 es6
 npm i --save-dev babel-cli babel-preset-es2015

@@ -7,6 +7,7 @@ read -p "Would you like to set up Homebrew? (y/n) " -n 1
 echo
 if [[ $REPLY =~ ^[Yy]$ ]]; then
     ./brew.sh
+    source osxdefaults.sh
 fi
 
 read -p "Would you like to set up OS X preferences? (y/n) " -n 1
