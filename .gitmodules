@@ -1,0 +1,3 @@
+[submodule "i3-config"]
+	path = i3-config
+	url = https://github.com/hmaciasc/i3-config
