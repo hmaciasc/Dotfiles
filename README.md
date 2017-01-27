@@ -1,12 +1,6 @@
-# Hector's dotfiles
-## Instalation
+# Welcome to my dotfiles
 
-```bash
-git clone git://github.com/hmaciasc/Dotfiles.git ~/.Dotfiles && cd ~/.Dotfiles  && source install.sh
-```
-## Updating
+## Personal dotfiles
 
-```bash
-cd ~/.dotfiles
-git pull
-```
+I3 config at
+[a link](https://github.com/hmaciasc/i3-config)
